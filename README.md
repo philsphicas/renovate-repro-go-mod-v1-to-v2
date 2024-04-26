@@ -1,0 +1,1 @@
+# renovate-repro-go-mod-v1-to-v2
